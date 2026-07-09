@@ -1,4 +1,3 @@
-# (Replace this line by removing it after opening)
 
 ```{=html}
 <p align="center">
