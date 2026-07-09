@@ -75,7 +75,7 @@ Frontend
  Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express"/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python"/>
 </p>
  Database
 
