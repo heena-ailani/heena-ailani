@@ -1,32 +1,21 @@
 
 <p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Heena%20Ailani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55"/>`{=html}
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Heena%20Ailani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55"/>`{=html}
 </p>
-```
 <h1 align="center">
-```
+
 Hi 👋, I'm Heena Ailani
 </h1>
-```
 <p align="center">
-```
-`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;NestJS+%7C+Python+%7C+PostgreSQL;Building+Modern+Web+Applications;Always+Learning+New+Technologies+🚀"/>`{=html}
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;NestJS+%7C+Python+%7C+PostgreSQL;Building+Modern+Web+Applications;Always+Learning+New+Technologies+🚀"/>`{=html}
 </p>
-```
 <h3 align="center">
-```
 💻 Full Stack Developer • 🌐 Web Developer • 🚀 AI Enthusiast
-```{=html}
 </h3>
-```
 <p align="center">
-```
 Passionate about building scalable web applications, solving real-world
 problems, and continuously learning modern technologies.
-```{=html}
 </p>
-```
 <p align="center">
 ```
 `<a href="https://www.linkedin.com/in/heena-ailani-71a4a63aa/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>`{=html}`</a>`{=html}
